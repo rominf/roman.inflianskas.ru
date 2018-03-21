@@ -1,0 +1,25 @@
+baseurl = "inflianskas.ru"
+author = "Roman Inflianskas"
+title = "Roman Inflianskas"
+
+theme = "goa"
+
+languagecode = "en"
+
+[params]
+    author = "Roman Inflianskas"
+    intro = "Backend Python/C++ developer and DevOps engineer"
+    description = "Moscow, Russia"
+    keywords = "developer,devops,personal"
+    authorimage = "photo.jpg"
+
+[params.social]
+    github = "rominf"
+    stackoverflow = "2108548"
+    linkedin = "roman-inflianskas-817523b1"
+    email = "roman@inflianskas.ru"
+
+[[menu.main]]
+    name = "Resume"
+    weight = 1
+    url  = "roman_inflianskas_cv_en.pdf"
