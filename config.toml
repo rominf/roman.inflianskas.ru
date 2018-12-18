@@ -8,9 +8,9 @@ languagecode = "en"
 
 [params]
     author = "Roman Inflianskas"
-    intro = "Backend Python/C++ developer and DevOps engineer"
+    intro = "Backend Python developer and DevOps engineer"
     description = "Moscow, Russia"
-    keywords = "developer,devops,personal"
+    keywords = "python,developer,devops,personal"
     authorimage = "photo.jpg"
 
 [params.social]
