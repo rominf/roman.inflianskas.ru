@@ -24,3 +24,13 @@ languagecode = "en"
     name = "Resume"
     weight = 1
     url  = "roman_inflianskas_cv_en.pdf"
+
+[[menu.main]]
+    name = "hh.ru"
+    weight = 2
+    url  = "https://hh.ru/resume/86fdb4ddff0530d2790039ed1f6b6e31744c7a"
+
+[[menu.main]]
+    name = "moikrug.ru"
+    weight = 3
+    url  = "https://moikrug.ru/rominf"
