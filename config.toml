@@ -8,7 +8,7 @@ languagecode = "en"
 
 [params]
     author = "Roman Inflianskas"
-    intro = "Backend Python developer and DevOps engineer"
+    intro = "Python backend and bot developer, DevOps engineer"
     description = "Moscow, Russia"
     keywords = "python,developer,devops,personal"
     authorimage = "photo.jpg"
