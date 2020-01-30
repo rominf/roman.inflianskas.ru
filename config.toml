@@ -8,7 +8,7 @@ languagecode = "en"
 
 [params]
     author = "Roman Inflianskas"
-    intro = "Python backend and bot developer, DevOps engineer"
+    intro = "Python Developer, FOSS Enthusiast"
     description = "Moscow, Russia"
     keywords = "python,developer,devops,personal"
     authorimage = "photo.jpg"
@@ -31,6 +31,6 @@ languagecode = "en"
     url  = "https://hh.ru/resume/86fdb4ddff0530d2790039ed1f6b6e31744c7a"
 
 [[menu.main]]
-    name = "moikrug.ru"
+    name = "Habr Career"
     weight = 3
-    url  = "https://moikrug.ru/rominf"
+    url  = "https://career.habr.com/rominf"
