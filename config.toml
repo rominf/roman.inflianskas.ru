@@ -9,7 +9,7 @@ languagecode = "en"
 [params]
     author = "Roman Inflianskas"
     intro = "Python Developer, FOSS Enthusiast"
-    description = "Moscow, Russia"
+    description = "Helsinki, Finland"
     keywords = "python,developer,devops,personal"
     authorimage = "photo.jpg"
 
@@ -24,13 +24,3 @@ languagecode = "en"
     name = "Resume"
     weight = 1
     url  = "roman_inflianskas_cv_en.pdf"
-
-[[menu.main]]
-    name = "hh.ru"
-    weight = 2
-    url  = "https://hh.ru/resume/86fdb4ddff0530d2790039ed1f6b6e31744c7a"
-
-[[menu.main]]
-    name = "Habr Career"
-    weight = 3
-    url  = "https://career.habr.com/rominf"
